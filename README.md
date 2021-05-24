@@ -1,6 +1,6 @@
 # dpisd_gpa
 
-A new Flutter project.
+A GPA calculator for Deer Park ISD students, complete with weighted GPA, cumulative calculation, extra classes, and more functionality.
 
 ## Getting Started
 

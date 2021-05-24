@@ -48,13 +48,10 @@ class Main extends StatelessWidget {
         switch (index) {
           case 0:
             return GradePage();
-            break;
           case 1:
             return Calculator();
-            break;
           case 2:
             return About();
-            break;
           default:
             return GradePage();
         }
